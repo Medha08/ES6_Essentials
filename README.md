@@ -1,2 +1,2 @@
-# ES6_Essentials
+# ES6 Essentials
 A lookback repo
